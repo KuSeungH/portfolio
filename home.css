@@ -309,7 +309,7 @@ div > label:nth-child(2) {
 }
 
 .text {
-    margin-top: 40%;
+    margin-top: 38%;
     display: inline-block;
     font-size: clamp(1.4rem, 22vw, 14rem);
     font-weight: bold;
@@ -320,7 +320,7 @@ div > label:nth-child(2) {
 }
 
 .text + .text {
-    margin-left: 64px;
+    margin-left: 80px;
 }
 
 .stact-tool {
@@ -397,7 +397,7 @@ p {
 }
 
 .tot {
-    width: 23ch;
+    width: 500px;
     height: 30px;
     white-space: nowrap;
     overflow: hidden;
@@ -408,21 +408,21 @@ p {
 }
 
 .top-int {
-    font-size: 30px;
+    font-size: 28px;
     background-color: #999999;
     color: #fff;
-    width: 400px;
+    width: 420px;
     margin-top: 50px;
     font-weight: bolder;
 }
 
 .int-tet {
     background-color: #999999;
-    width: 400px;
+    width: 420px;
     height: 504px;
     margin-top: 110px;
     font-family: monospace;
-    font-size: 1.8em;
+    font-size: 22px;
     color: #fff;
     font-weight: bolder;
 }
@@ -643,8 +643,8 @@ details {
 
 .pp {
     margin-top: 20px;
-    margin-left: 386px;
-    font-size:26px;
+    margin-left: 35%;
+    font-size:24px;
     color: #000;
     font-family: Tahoma, sans-serif;
     text-align: left;
